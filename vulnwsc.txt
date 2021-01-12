@@ -49,3 +49,4 @@ WPS Router RT-N11P
 WPS Router RT-N12+
 WPS Router RT-N56U
 WPS Router RT-N300
+Wi-Fi Protected Setup Router RT-N12VP
