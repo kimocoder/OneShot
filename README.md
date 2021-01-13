@@ -11,8 +11,10 @@
  - [Wpa supplicant](https://www.w1.fi/wpa_supplicant/);
  - [Pixiewps](https://github.com/wiire-a/pixiewps);
  - [iw](https://wireless.wiki.kernel.org/en/users/documentation/iw).
+ - [iw] latest v5.9 compiled for Android (arm/arm64) is available
+   in the /lib/ folder.
 # Setup
-## Debian/Ubuntu
+## Debian/Ubuntu (Linux / Android)
 **Installing requirements**
  ```
  sudo apt install -y python3 wpasupplicant iw wget
