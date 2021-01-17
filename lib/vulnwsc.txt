@@ -19,6 +19,7 @@ DWR-921C3 WBR-0001
 D-Link Router DIR-605L
 D-Link Router DIR-615H1
 D-Link Router DIR-809
+D-Link Router GO-RT-N150
 EV-2009-02-06
 Home Internet Center KEENETIC series
 Home Internet Center Keenetic series
