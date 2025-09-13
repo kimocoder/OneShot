@@ -339,7 +339,12 @@ class PixiewpsData:
         self.e_nonce = ''
 
     def clear(self):
-        self.__init__()
+        self.pke = ''
+        self.pkr = ''
+        self.e_hash1 = ''
+        self.e_hash2 = ''
+        self.authkey = ''
+        self.e_nonce = ''
 
     def got_all(self):
         return (self.pke and self.pkr and self.e_nonce and self.authkey
@@ -366,7 +371,10 @@ class ConnectionStatus:
         return self.last_m_message > 5
 
     def clear(self):
-        self.__init__()
+        self.status = ''
+        self.last_m_message = 0
+        self.essid = ''
+        self.wpa_psk = ''
 
 
 class BruteforceStatus:
